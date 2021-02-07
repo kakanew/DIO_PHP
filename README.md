@@ -17,8 +17,8 @@ Aprenda a criar Formulários com validações, mensagens de erro e boas prática
 - [x] Introdução a verbos HTTP para formulários
 - [x] Aprenda na prática como utilizar o método de requisição e resposta na web com PHP
 - [x] Implementando técnicas de validação de dados
-- [ ] Finalizando a validação do formulário com mensagens de erro
-- [x] Aprenda as formas de persistir o estado de sua navegação com sessões
+- [x] Finalizando a validação do formulário com mensagens de erro
+- [ ] Aprenda as formas de persistir o estado de sua navegação com sessões
 - [ ] Aprenda como utilizar o operador ternário do PHP e a validar os dados da sessão
 - [ ] Aprenda a normalizar o fluxo de condições com PHP
 
