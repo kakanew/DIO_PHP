@@ -22,11 +22,11 @@ Aprenda a criar Formulários com validações, mensagens de erro e boas prática
 - [ ] Aprenda como utilizar o operador ternário do PHP e a validar os dados da sessão
 - [ ] Aprenda a normalizar o fluxo de condições com PHP
 
-## [DIO - Conhecendo funções e validação de dados com PHP](#) ☼ [Aulas by DIO](#)
+## [Conhecendo funções e validação de dados com PHP](#) ☼ [Aulas by DIO](#)
 
 Esse curso vai ensinar sobre as funções e validações de comandos e informações no PHP e como aplicá-los no seu trabalho.
 
-## [DIO - Orientação a objetos, exceções e banco de dados PHP](#) ☼ [Aulas by DIO](#)
+## [Orientação a objetos, exceções e banco de dados PHP](#) ☼ [Aulas by DIO](#)
        
 Nesse curso você verá o que é orientações a objetos e como trabalhar com ela. Além de também aprender manipulação de banco de dados com PDO, datas, horas e exceções.
  
