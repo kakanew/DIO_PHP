@@ -7,4 +7,4 @@ Conheça a linguagem PHP e seu ecossistema, aprenda a lidar com comandos básico
 - [x] Exercite a sua lógica utilizando o PHP na prática com comandos básicos
 - [x] Introduzindo condicionais no seu projeto com PHP
 
-### [Introdução ao PHP](https://github.com/kakanew/DIO_PHP/tree/master/Innovation_Introducao_PHP)
+### [DIO PHP](https://github.com/kakanew/DIO_PHP)
