@@ -3,11 +3,18 @@
 Aprenda a criar Formulários com validações, mensagens de erro e boas práticas para otimização de código.
 
 - [x] Introdução a verbos HTTP para formulários
+
 - [x] Aprenda na prática como utilizar o método de requisição e resposta na web com PHP
+
 - [x] Implementando técnicas de validação de dados
+
 - [x] Finalizando a validação do formulário com mensagens de erro
+
 - [x] Aprenda as formas de persistir o estado de sua navegação com sessões
+
 - [x] Aprenda como utilizar o operador ternário do PHP e a validar os dados da sessão
+
 - [x] Aprenda a normalizar o fluxo de condições com PHP
 
 ### [DIO PHP](https://github.com/kakanew/DIO_PHP)
+
