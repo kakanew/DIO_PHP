@@ -19,7 +19,7 @@ Aprenda a criar Formulários com validações, mensagens de erro e boas prática
 - [x] Implementando técnicas de validação de dados
 - [x] Finalizando a validação do formulário com mensagens de erro
 - [x] Aprenda as formas de persistir o estado de sua navegação com sessões
-- [ ] Aprenda como utilizar o operador ternário do PHP e a validar os dados da sessão
+- [x] Aprenda como utilizar o operador ternário do PHP e a validar os dados da sessão
 - [ ] Aprenda a normalizar o fluxo de condições com PHP
 
 ## [Conhecendo funções e validação de dados com PHP](#) ☼ [Aulas by DIO](#)
