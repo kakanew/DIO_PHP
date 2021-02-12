@@ -1,4 +1,4 @@
-# [Introdução ao PHP](https://github.com/kakanew/DIO_PHP/tree/master/Innovation_Introducao_PHP)
+# [AULAS_Introdução ao PHP](https://github.com/kakanew/DIO_PHP/tree/master/AULAS_Introducao_PHP)
 
 Conheça a linguagem PHP e seu ecossistema, aprenda a lidar com comandos básicos e iniciar o desenvolvimento com a linguagem.
 
@@ -7,7 +7,7 @@ Conheça a linguagem PHP e seu ecossistema, aprenda a lidar com comandos básico
 - [x] Exercite a sua lógica utilizando o PHP na prática com comandos básicos
 - [x] Introduzindo condicionais no seu projeto com PHP
 
-# [Formulários com condicionais e sessões com PHP](https://github.com/kakanew/DIO_PHP/tree/master/Formulários_condicionais_sessões_PHP)
+# [AULAS_Formulários com condicionais e sessões com PHP](https://github.com/kakanew/DIO_PHP/tree/master/AULAS_Formul%C3%A1rios_condicionais_sess%C3%B5es_PHP)
 
 Aprenda a criar Formulários com validações, mensagens de erro e boas práticas para otimização de código.
 
